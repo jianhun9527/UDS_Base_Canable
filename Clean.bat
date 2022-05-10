@@ -1,0 +1,1 @@
+del debug\CANbootloader.exe  & cd build & make clean

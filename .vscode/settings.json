@@ -1,0 +1,16 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "uds_fileprogram.h": "c",
+        "uds_typedef.h": "c",
+        "cando_uds_device.h": "c",
+        "cando.h": "c",
+        "stdlib.h": "c",
+        "stdbool.h": "c",
+        "stdint.h": "c",
+        "uds_fileresolve.h": "c",
+        "commondef.h": "c",
+        "process.h": "c",
+        "uds_candevice.h": "c"
+    }
+}
